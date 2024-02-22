@@ -1,0 +1,854 @@
+﻿Log file open, 04/22/23 22:08:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PinBall
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.227772
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: F:/GameDev/EpicGames/UnReal_Engine/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2023.04.22-16.38.55:856][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.04.22-16.38.55:856][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.04.22-16.38.55:857][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.04.22-16.38.55:857][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.04.22-16.38.55:857][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.04.22-16.38.55:857][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.04.22-16.38.55:857][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.04.22-16.38.55:857][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.04.22-16.38.55:857][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.04.22-16.38.55:857][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.04.22-16.38.55:857][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.04.22-16.38.55:857][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.04.22-16.38.55:857][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2023.04.22-16.38.55:857][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2023.04.22-16.38.55:861][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.22-16.38.55:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2023.04.22-16.38.55:862][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2023.04.22-16.38.55:862][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.22-16.38.55:862][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.04.22-16.38.55:864][  0]LogHAL: Display: Platform has ~ 20 GB [21332951040 / 34359738368 / 20], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.22-16.38.55:864][  0]LogInit: Going up to parent DeviceProfile []
+[2023.04.22-16.38.55:864][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:864][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.22-16.38.55:864][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.22-16.38.55:864][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2023.04.22-16.38.55:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.04.22-16.38.55:866][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2023.04.22-16.38.55:866][  0]LogInit: Computer: VINNUCHOWDARY
+[2023.04.22-16.38.55:866][  0]LogInit: User: VinnuChowdary
+[2023.04.22-16.38.55:866][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.04.22-16.38.55:866][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.22-16.38.55:866][  0]LogMemory: Memory total: Physical=19.9GB (20GB approx)
+[2023.04.22-16.38.55:866][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.22-16.38.55:866][  0]LogMemory: Process Physical Memory: 111.50 MB used, 111.50 MB peak
+[2023.04.22-16.38.55:866][  0]LogMemory: Process Virtual Memory: 100.91 MB used, 100.91 MB peak
+[2023.04.22-16.38.55:866][  0]LogMemory: Physical Memory: 8570.65 MB used,  11774.04 MB free, 20344.69 MB total
+[2023.04.22-16.38.55:866][  0]LogMemory: Virtual Memory: 5146.63 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2023.04.22-16.38.55:871][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.22-16.38.55:917][  0]LogInit: Using OS detected language (en-US).
+[2023.04.22-16.38.55:918][  0]LogInit: Using OS detected locale (en-US).
+[2023.04.22-16.38.55:918][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.04.22-16.38.56:140][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.22-16.38.56:140][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.22-16.38.56:318][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.22-16.38.56:318][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.04.22-16.38.56:318][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.04.22-16.38.56:318][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.22-16.38.56:459][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2023.04.22-16.38.56:459][  0]LogD3D11RHI:       4020/0/10172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.04.22-16.38.56:524][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2023.04.22-16.38.56:524][  0]LogD3D11RHI:       128/0/10172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.04.22-16.38.56:528][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.04.22-16.38.56:528][  0]LogD3D11RHI:       0/0/10172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.22-16.38.56:528][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.04.22-16.38.56:535][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.22-16.38.56:535][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2023.04.22-16.38.56:535][  0]LogWindows: EnumDisplayDevices:
+[2023.04.22-16.38.56:536][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2023.04.22-16.38.56:536][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2023.04.22-16.38.56:536][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2023.04.22-16.38.56:536][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2023.04.22-16.38.56:537][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2023.04.22-16.38.56:537][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2023.04.22-16.38.56:537][  0]LogD3D11RHI:      Driver Date: Unknown
+[2023.04.22-16.38.56:537][  0]LogRHI: Texture pool is 2814 MB (70% of 4020 MB)
+[2023.04.22-16.38.56:600][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.04.22-16.38.56:600][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.22-16.38.56:620][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.04.22-16.38.57:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.04.22-16.38.57:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.22-16.38.57:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.22-16.38.57:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2023.04.22-16.38.57:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.22-16.38.57:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.22-16.38.57:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.22-16.38.57:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.22-16.38.57:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.22-16.38.57:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.04.22-16.38.57:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.22-16.38.57:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.22-16.38.57:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.04.22-16.38.57:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.04.22-16.38.57:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.04.22-16.38.57:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.04.22-16.38.57:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.04.22-16.38.57:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.22-16.38.57:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.22-16.38.57:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.04.22-16.38.57:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.22-16.38.57:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.22-16.38.57:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.22-16.38.57:166][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.04.22-16.38.57:170][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.22-16.38.57:192][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../../UnReal Projects/SinglePLayer/PinBall/Intermediate/Shaders/WorkingDirectory/8324/).
+[2023.04.22-16.38.57:192][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Vinnu Chowdary/AppData/Local/Temp/UnrealShaderWorkingDir/C80429204EF3D74046F9759EE1F98E4F/'.
+[2023.04.22-16.38.57:192][  0]LogXGEController: Cleaning working directory: C:/Users/Vinnu Chowdary/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.04.22-16.38.57:193][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2023.04.22-16.38.57:910][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.04.22-16.38.57:975][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Vinnu Chowdary/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2023.04.22-16.38.57:975][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Vinnu Chowdary/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2023.04.22-16.38.57:975][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../UnReal Projects/SinglePLayer/PinBall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.22-16.38.57:975][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.04.22-16.38.57:975][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../UnReal Projects/SinglePLayer/PinBall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.22-16.38.57:975][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.04.22-16.38.57:986][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.04.22-16.38.57:986][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.22-16.38.57:986][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.04.22-16.38.57:990][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Vinnu Chowdary/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.22-16.38.57:990][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.22-16.38.57:990][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.04.22-16.38.58:022][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.04.22-16.38.58:025][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.22-16.38.58:026][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.22-16.38.58:087][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2023.04.22-16.38.58:400][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.22-16.38.58:555][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.22-16.38.58:555][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.22-16.38.58:555][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.22-16.38.58:555][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.22-16.38.58:555][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.22-16.38.58:570][  0]LogNetVersion: PinBall 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 652888753)
+[2023.04.22-16.38.59:690][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.034504 seconds
+[2023.04.22-16.38.59:697][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2023.04.22-16.38.59:697][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2023.04.22-16.38.59:697][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.22-16.39.00:106][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.22-16.39.00:111][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.22-16.39.00:186][  0]SourceControl: Source control is disabled
+[2023.04.22-16.39.00:186][  0]SourceControl: Source control is disabled
+[2023.04.22-16.39.00:188][  0]SourceControl: Source control is disabled
+[2023.04.22-16.39.00:190][  0]SourceControl: Source control is disabled
+[2023.04.22-16.39.00:191][  0]SourceControl: Source control is disabled
+[2023.04.22-16.39.00:323][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.22-16.39.00:346][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.22-16.39.00:346][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.22-16.39.00:527][  0]LogOcInput: OculusInput pre-init called
+[2023.04.22-16.39.00:538][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.04.22-16.39.00:538][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.04.22-16.39.00:697][  0]LogEngine: Initializing Engine...
+[2023.04.22-16.39.00:699][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.22-16.39.00:701][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.22-16.39.01:212][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.22-16.39.01:221][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.22-16.39.01:241][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.22-16.39.01:241][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.22-16.39.01:241][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.22-16.39.01:241][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.22-16.39.01:241][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.22-16.39.01:241][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.22-16.39.01:241][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.22-16.39.01:242][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.22-16.39.01:242][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.22-16.39.01:242][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.22-16.39.01:273][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2023.04.22-16.39.01:273][  0]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2023.04.22-16.39.01:273][  0]LogAudioMixer: Display: Is Default: Yes
+[2023.04.22-16.39.01:273][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2023.04.22-16.39.01:273][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2023.04.22-16.39.01:273][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2023.04.22-16.39.01:273][  0]LogAudioMixer: Display: Channel Order:
+[2023.04.22-16.39.01:273][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.22-16.39.01:273][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.04.22-16.39.01:916][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.04.22-16.39.01:923][  0]LogInit: FAudioDevice initialized.
+[2023.04.22-16.39.01:923][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.22-16.39.02:057][  0]LogDerivedDataCache: Saved boot cache 0.13s 78MB C:/Users/Vinnu Chowdary/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2023.04.22-16.39.02:058][  0]LogInit: Texture streaming: Enabled
+[2023.04.22-16.39.02:076][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.22-16.39.02:076][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={2151A7CF-4EE3-F568-70E9-45AE8D752271}
+[2023.04.22-16.39.02:076][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.04.22-16.39.02:083][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.04.22-16.39.02:133][  0]LogInit: Transaction tracking system initialized
+[2023.04.22-16.39.02:150][  0]BlueprintLog: New page: Editor Load
+[2023.04.22-16.39.02:191][  0]LocalizationService: Localization service is disabled
+[2023.04.22-16.39.02:590][  0]LogFileCache: Scanning file cache for directory 'F:/UnReal Projects/SinglePLayer/PinBall/Content/' took 0.00s
+[2023.04.22-16.39.02:591][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.04.22-16.39.02:591][  0]LogCook: Display: Mobile HDR setting 1
+[2023.04.22-16.39.03:479][  0]SourceControl: Source control is disabled
+[2023.04.22-16.39.03:479][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.22-16.39.03:480][  0]LightingResults: New page: Lighting Build
+[2023.04.22-16.39.03:480][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.22-16.39.03:480][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-16.39.03:480][  0]MapCheck: New page: Map Check
+[2023.04.22-16.39.03:481][  0]LightingResults: New page: Lighting Build
+[2023.04.22-16.39.03:508][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.04.22-16.39.03:599][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.04.22-16.39.03:604][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.22-16.39.03:639][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2023.04.22-16.39.03:639][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.22-16.39.03:639][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2023.04.22-16.39.03:639][  0]LogFileHelpers: Loading map 'Template_Default' took 0.160
+[2023.04.22-16.39.03:810][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.22-16.39.03:818][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.22-16.39.03:826][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.22-16.39.03:834][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.22-16.39.03:839][  0]LogCollectionManager: Loaded 0 collections in 0.000870 seconds
+[2023.04.22-16.39.03:853][  0]LogFileCache: Scanning file cache for directory 'F:/UnReal Projects/SinglePLayer/PinBall/Saved/Collections/' took 0.00s
+[2023.04.22-16.39.03:853][  0]LogFileCache: Scanning file cache for directory 'F:/UnReal Projects/SinglePLayer/PinBall/Content/Developers/VinnuChowdary/Collections/' took 0.00s
+[2023.04.22-16.39.03:853][  0]LogFileCache: Scanning file cache for directory 'F:/UnReal Projects/SinglePLayer/PinBall/Content/Collections/' took 0.00s
+[2023.04.22-16.39.03:853][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 3015 classes and 717 folders.
+[2023.04.22-16.39.03:856][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.04.22-16.39.03:908][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.04.22-16.39.03:911][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2023.04.22-16.39.03:984][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.22-16.39.03:990][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.22-16.39.03:995][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.22-16.39.04:088][  0]LogRenderer: Reallocating scene render targets to support 1096x536 Format 10 NumSamples 1 (Frame:1).
+[2023.04.22-16.39.04:214][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.04.22-16.39.04:214][  0]LogLoad: (Engine Initialization) Total time: 9.89 seconds
+[2023.04.22-16.39.04:214][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.22-16.39.04:276][  0]LogAssetRegistry: Asset discovery search completed in 6.1912 seconds
+[2023.04.22-16.39.04:281][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2023.04.22-16.39.04:282][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.22-16.39.04:299][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.22-16.39.12:470][441]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.22-16.39.12:580][441]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.12:580][441]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.12:582][441]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.12:582][441]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.12:588][441]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.12:588][441]LoadErrors: Failed to load /Game/Pinball_Level1_Auto0_BuiltData.Pinball_Level1_Auto0_BuiltData Referenced by PersistentLevel
+[2023.04.22-16.39.12:588][441]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.12:672][441]LogAIModule: Creating AISystem for world Pinball_Level1
+[2023.04.22-16.39.12:683][441]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Pinball_Level1.Pinball_Level1
+[2023.04.22-16.39.12:715][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.04.22-16.39.12:717][441]Cmd: MAP LOAD FILE="../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.22-16.39.12:717][441]LightingResults: New page: Lighting Build
+[2023.04.22-16.39.12:718][441]LoadErrors: New page: Loading map: Pinball_Level1.umap
+[2023.04.22-16.39.12:718][441]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.22-16.39.12:718][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-16.39.12:718][441]MapCheck: New page: Map Check
+[2023.04.22-16.39.12:718][441]LightingResults: New page: Lighting Build
+[2023.04.22-16.39.12:746][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.04.22-16.39.12:765][441]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.22-16.39.12:793][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.04.22-16.39.12:811][441]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.22-16.39.12:811][441]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2023.04.22-16.39.12:811][441]LogFileHelpers: Loading map 'Pinball_Level1' took 0.095
+[2023.04.22-16.39.14:537][534]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.14:537][534]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.14:539][534]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.14:539][534]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.14:543][534]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.14:543][534]LoadErrors: Failed to load /Game/Pinball_Level1_Auto0_BuiltData.Pinball_Level1_Auto0_BuiltData Referenced by PersistentLevel
+[2023.04.22-16.39.14:543][534]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.14:549][534]LogAIModule: Creating AISystem for world Pinball_Level1_Auto3
+[2023.04.22-16.39.14:561][534]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Pinball_Level1_Auto3.Pinball_Level1'
+[2023.04.22-16.39.28:431][339]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.28:432][339]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.28:433][339]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.28:433][339]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.28:436][339]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.28:436][339]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.28:458][339]LogAIModule: Creating AISystem for world Pinball_Level1_Auto0
+[2023.04.22-16.39.28:467][339]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Pinball_Level1_Auto0.Pinball_Level1_Auto0
+[2023.04.22-16.39.28:496][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.04.22-16.39.28:498][339]Cmd: MAP LOAD FILE="../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.22-16.39.28:498][339]LightingResults: New page: Lighting Build
+[2023.04.22-16.39.28:499][339]LoadErrors: New page: Loading map: Pinball_Level1_Auto0.umap
+[2023.04.22-16.39.28:500][339]LogWorld: UWorld::CleanupWorld for Pinball_Level1, bSessionEnded=true, bCleanupResources=true
+[2023.04.22-16.39.28:500][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-16.39.28:500][339]MapCheck: New page: Map Check
+[2023.04.22-16.39.28:500][339]LightingResults: New page: Lighting Build
+[2023.04.22-16.39.28:530][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.04.22-16.39.28:558][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.04.22-16.39.28:585][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.22-16.39.28:598][339]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.22-16.39.28:630][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.04.22-16.39.28:650][339]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.22-16.39.28:650][339]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2023.04.22-16.39.28:650][339]LogFileHelpers: Loading map 'Pinball_Level1_Auto0' took 0.153
+[2023.04.22-16.39.36:425][783]LogObjectTools: Deleting 1 worlds: /Game/Pinball_Level1_Auto0.Pinball_Level1_Auto0
+[2023.04.22-16.39.36:425][783]LogObjectTools: Currently 1 active worlds: /Game/Pinball_Level1_Auto0.Pinball_Level1_Auto0
+[2023.04.22-16.39.42:042][783]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.04.22-16.39.43:067][837]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.43:067][837]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.43:069][837]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.43:069][837]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.43:073][837]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.43:073][837]LoadErrors: Failed to load /Game/Pinball_Level1_Auto0_BuiltData.Pinball_Level1_Auto0_BuiltData Referenced by PersistentLevel
+[2023.04.22-16.39.43:073][837]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.43:080][837]LogAIModule: Creating AISystem for world Pinball_Level1_Auto3
+[2023.04.22-16.39.44:530][916]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.44:530][916]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.44:531][916]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.44:531][916]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.44:536][916]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.44:536][916]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.44:543][916]LogAIModule: Creating AISystem for world Pinball_Level1
+[2023.04.22-16.39.44:551][916]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Pinball_Level1.Pinball_Level1
+[2023.04.22-16.39.44:583][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.22-16.39.44:585][916]Cmd: MAP LOAD FILE="../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.22-16.39.44:585][916]LightingResults: New page: Lighting Build
+[2023.04.22-16.39.44:586][916]LoadErrors: New page: Loading map: Pinball_Level1.umap
+[2023.04.22-16.39.44:586][916]LogWorld: UWorld::CleanupWorld for Pinball_Level1_Auto0, bSessionEnded=true, bCleanupResources=true
+[2023.04.22-16.39.44:586][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-16.39.44:587][916]MapCheck: New page: Map Check
+[2023.04.22-16.39.44:587][916]LightingResults: New page: Lighting Build
+[2023.04.22-16.39.44:616][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.04.22-16.39.44:644][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.22-16.39.44:669][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.04.22-16.39.44:681][916]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.22-16.39.44:707][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.04.22-16.39.44:724][916]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.22-16.39.44:724][916]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2023.04.22-16.39.44:724][916]LogFileHelpers: Loading map 'Pinball_Level1' took 0.141
+[2023.04.22-16.39.56:613][604]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.56:613][604]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.56:614][604]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.56:614][604]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.56:618][604]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.56:618][604]LoadErrors: Failed to load /Game/Pinball_Level1_Auto0_BuiltData.Pinball_Level1_Auto0_BuiltData Referenced by PersistentLevel
+[2023.04.22-16.39.56:618][604]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto0.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.56:623][604]LogAIModule: Creating AISystem for world Pinball_Level1_Auto0
+[2023.04.22-16.39.56:634][604]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.56:634][604]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.56:636][604]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.56:636][604]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.56:639][604]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.56:639][604]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.39.56:646][604]LogAIModule: Creating AISystem for world Pinball_Level1_Auto3
+[2023.04.22-16.39.56:653][604]LogObjectTools: Deleting 1 worlds: /Game/Pinball_Level1_Auto0.Pinball_Level1_Auto0
+[2023.04.22-16.39.56:653][604]LogObjectTools: Currently 1 active worlds: /Game/Pinball_Level1.Pinball_Level1
+[2023.04.22-16.39.56:681][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.04.22-16.39.58:998][604]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.22-16.39.59:051][604]LogWorld: UWorld::CleanupWorld for Pinball_Level1_Auto0, bSessionEnded=true, bCleanupResources=true
+[2023.04.22-16.39.59:051][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-16.39.59:240][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.04.22-16.39.59:279][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.04.22-16.39.59:304][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.04.22-16.40.02:185][727]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Pinball_Level1.Pinball_Level1
+[2023.04.22-16.40.02:215][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.04.22-16.40.02:217][727]Cmd: MAP LOAD FILE="../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.22-16.40.02:217][727]LightingResults: New page: Lighting Build
+[2023.04.22-16.40.02:218][727]LoadErrors: New page: Loading map: Pinball_Level1.umap
+[2023.04.22-16.40.02:220][727]LogWorld: UWorld::CleanupWorld for Pinball_Level1, bSessionEnded=true, bCleanupResources=true
+[2023.04.22-16.40.02:220][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-16.40.02:220][727]MapCheck: New page: Map Check
+[2023.04.22-16.40.02:220][727]LightingResults: New page: Lighting Build
+[2023.04.22-16.40.02:256][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.04.22-16.40.02:290][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.04.22-16.40.02:323][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.04.22-16.40.02:327][727]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.02:327][727]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.02:329][727]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.02:329][727]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.02:334][727]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.02:334][727]LoadErrors: Failed to load /Game/Pinball_Level1_Auto0_BuiltData.Pinball_Level1_Auto0_BuiltData Referenced by PersistentLevel
+[2023.04.22-16.40.02:334][727]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.02:341][727]LogAIModule: Creating AISystem for world Pinball_Level1
+[2023.04.22-16.40.02:370][727]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.22-16.40.02:606][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.04.22-16.40.02:659][727]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.22-16.40.02:659][727]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2023.04.22-16.40.02:659][727]LogFileHelpers: Loading map 'Pinball_Level1' took 0.444
+[2023.04.22-16.40.04:670][823]LogSlate: Window 'Message Log' being destroyed
+[2023.04.22-16.40.04:692][823]LogSlate: Window 'Message Log' being destroyed
+[2023.04.22-16.40.10:345][139]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.10:345][139]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.10:347][139]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.10:347][139]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.10:351][139]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.10:351][139]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.10:358][139]LogAIModule: Creating AISystem for world Pinball_Level1_Auto3
+[2023.04.22-16.40.27:701][171]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Pinball_Level1.Pinball_Level1
+[2023.04.22-16.40.27:734][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.22-16.40.27:735][171]Cmd: MAP LOAD FILE="../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.22-16.40.27:736][171]LightingResults: New page: Lighting Build
+[2023.04.22-16.40.27:736][171]LoadErrors: New page: Loading map: Pinball_Level1.umap
+[2023.04.22-16.40.27:737][171]LogWorld: UWorld::CleanupWorld for Pinball_Level1, bSessionEnded=true, bCleanupResources=true
+[2023.04.22-16.40.27:737][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.22-16.40.27:737][171]MapCheck: New page: Map Check
+[2023.04.22-16.40.27:737][171]LightingResults: New page: Lighting Build
+[2023.04.22-16.40.27:767][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.22-16.40.27:797][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.04.22-16.40.27:820][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.22-16.40.27:823][171]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.27:823][171]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.27:825][171]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.27:825][171]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.27:829][171]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.27:829][171]LoadErrors: Failed to load /Game/Pinball_Level1_Auto0_BuiltData.Pinball_Level1_Auto0_BuiltData Referenced by PersistentLevel
+[2023.04.22-16.40.27:829][171]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.27:834][171]LogAIModule: Creating AISystem for world Pinball_Level1
+[2023.04.22-16.40.27:848][171]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.22-16.40.27:951][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.04.22-16.40.27:978][171]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.22-16.40.27:978][171]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2023.04.22-16.40.27:978][171]LogFileHelpers: Loading map 'Pinball_Level1' took 0.243
+[2023.04.22-16.40.33:040][460]LogSlate: Window 'Message Log' being destroyed
+[2023.04.22-16.40.33:055][460]LogSlate: Window 'Message Log' being destroyed
+[2023.04.22-16.40.34:733][558]LogObjectTools: Deleting 1 worlds: /Game/Pinball_Level1.Pinball_Level1
+[2023.04.22-16.40.34:733][558]LogObjectTools: Currently 1 active worlds: /Game/Pinball_Level1.Pinball_Level1
+[2023.04.22-16.40.36:101][558]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.04.22-16.40.37:818][654]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.37:818][654]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.37:819][654]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.37:819][654]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.37:823][654]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.37:823][654]LogLinker: Warning: While loading '../../../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1_Auto3.umap' failed to load '/Game/Pinball_Level1_Auto0_BuiltData': Can't find file.
+[2023.04.22-16.40.37:830][654]LogAIModule: Creating AISystem for world Pinball_Level1_Auto3
+[2023.04.22-16.41.05:793][274]LogObjectTools: Deleting 1 worlds: /Game/Pinball_Level1.Pinball_Level1
+[2023.04.22-16.41.05:793][274]LogObjectTools: Currently 1 active worlds: /Game/Pinball_Level1.Pinball_Level1
+[2023.04.22-16.41.09:214][274]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.04.22-16.41.13:203][490]LogObjectTools: Deleting 1 worlds: /Game/Pinball_Level1.Pinball_Level1
+[2023.04.22-16.41.13:203][490]LogObjectTools: Currently 1 active worlds: /Game/Pinball_Level1.Pinball_Level1
+[2023.04.22-16.41.15:001][490]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.04.22-16.41.22:704][950]LogEditorViewport: Clicking on Actor (LMB): BP_Plunger_C (BP_Plunger)
+[2023.04.22-16.41.40:637][  9]MapCheck: New page: Map Check
+[2023.04.22-16.41.40:663][  9]Cmd: MAP REBUILD ALLVISIBLE
+[2023.04.22-16.41.40:663][  9]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.04.22-16.41.40:670][  9]LogWorld: UWorld::CleanupWorld for Pinball_Level1, bSessionEnded=true, bCleanupResources=false
+[2023.04.22-16.41.40:818][  9]LightingResults: New page: Lighting Build - Apr 23, 2023, 3:41:40 AM
+[2023.04.22-16.41.41:167][  9]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.04.22-16.41.41:277][  9]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.04.22-16.41.41:303][  9]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.04.22-16.41.41:816][  9]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.04.22-16.41.41:816][  9]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8324
+[2023.04.22-16.41.45:156][  9]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.04.22-16.41.45:368][  9]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.04.22-16.41.45:368][  9]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.04.22-16.41.45:368][  9]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.04.22-16.41.45:368][  9]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.04.22-16.41.45:368][  9]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.04.22-16.41.45:767][  9]LogEditorBuildUtils: Build time 0:05
+[2023.04.22-16.41.46:004][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.04.22-16.41.48:547][116]Job is a success!
+[2023.04.22-16.41.48:739][116]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.025s
+[2023.04.22-16.41.48:739][116]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.04.22-16.41.48:739][116]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2023.04.22-16.41.48:739][116]LogVolumetricLightmapImport:      Bricks at depth
+[2023.04.22-16.41.48:740][116]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2023.04.22-16.41.48:740][116]LogVolumetricLightmapImport:          1: 6.6% covering 6.3% of volume
+[2023.04.22-16.41.48:740][116]LogVolumetricLightmapImport:          2: 91.8% covering 1.4% of volume
+[2023.04.22-16.41.48:740][116]LogVolumetricLightmapImport:      Bricks in each level
+[2023.04.22-16.41.48:740][116]LogVolumetricLightmapImport:          Pinball_Level1 			 61 bricks 	 100.0% (Persistent Level)
+[2023.04.22-16.41.49:249][116]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2023.04.22-16.41.49:249][116]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2023.04.22-16.41.49:249][116]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2023.04.22-16.41.49:249][116]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2023.04.22-16.41.49:355][116]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2023.04.22-16.41.49:355][116]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X512)
+[2023.04.22-16.41.49:355][116]LogStaticLightingSystem: Pinball_Level1_BuiltData storing lightmap data for 9 meshes in 2 LightmapResourceClusters (4.5 Meshes per cluster).
+[2023.04.22-16.41.49:398][116]Lightmass on VINNUCHOWDARY: 2.24 sec total, 164 ms importing, 34 ms setup, 147 ms photons, 1.74 sec processing, 0 ms extra exporting [25/25 mappings]. Threads: 12.1 sec total, 1.61 sec processing.
+[2023.04.22-16.41.49:398][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.04.22-16.41.49:435][116]LogStaticLightingSystem: Illumination: 8.58 sec (245 ms encoding lightmaps, 37 ms encoding shadowmaps)
+[2023.04.22-16.41.49:454][116]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 4 textures
+[2023.04.22-16.41.49:454][116]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.1 MB non-streaming), 2 textures
+[2023.04.22-16.41.55:170][116]DumpUnbuiltLightIteractions
+[2023.04.22-16.41.55:170][116]Lights with unbuilt interactions: 0
+[2023.04.22-16.41.55:170][116]
+[2023.04.22-16.41.55:170][116]Primitives with unbuilt interactions: 0
+[2023.04.22-16.41.55:308][117]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.04.22-16.41.55:308][117]MapCheck: New page: Pinball_Level1 - Apr 23, 2023, 3:41:55 AM
+[2023.04.22-16.41.55:309][117]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.48ms to complete.
+[2023.04.22-16.42.04:382][555]LogBlueprint: Warning: FMemberReference::ResolveMember (DetectFlippers) bSelfContext == true, but no scope supplied!
+[2023.04.22-16.42.04:382][555]LogBlueprint: Warning: FMemberReference::ResolveMember (DetectPlunger) bSelfContext == true, but no scope supplied!
+[2023.04.22-16.42.04:384][555]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.04.22-16.42.04:385][555]LogWindows: Windows GetLastError: The operation completed successfully. (0)

@@ -1,0 +1,1341 @@
+﻿Log file open, 02/22/24 21:31:11
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: PinBall
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.198536
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/vinay/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.26/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2024.02.22-16.01.11:735][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.02.22-16.01.11:735][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2024.02.22-16.01.11:735][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2024.02.22-16.01.11:743][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.02.22-16.01.11:743][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.02.22-16.01.11:744][  0]LogInit: Selected Device Profile: [Windows]
+[2024.02.22-16.01.11:744][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.02.22-16.01.11:744][  0]LogHAL: Display: Platform has ~ 24 GB [25592647680 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.02.22-16.01.11:744][  0]LogInit: Going up to parent DeviceProfile []
+[2024.02.22-16.01.11:744][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.22-16.01.11:744][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Scalability.ini]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.02.22-16.01.11:745][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.02.22-16.01.11:746][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.02.22-16.01.11:746][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.02.22-16.01.11:746][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.02.22-16.01.11:746][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Engine.ini]
+[2024.02.22-16.01.11:746][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnReal Projects/SinglePLayer/PinBall/Saved/Config/Windows/Editor.ini]
+[2024.02.22-16.01.11:746][  0]LogInit: Computer: DESKTOP-U1ID5IC
+[2024.02.22-16.01.11:746][  0]LogInit: User: vinay
+[2024.02.22-16.01.11:746][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.02.22-16.01.11:746][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.02.22-16.01.11:746][  0]LogMemory: Memory total: Physical=23.8GB (24GB approx)
+[2024.02.22-16.01.11:746][  0]LogMemory: Platform Memory Stats for Windows
+[2024.02.22-16.01.11:746][  0]LogMemory: Process Physical Memory: 136.59 MB used, 136.59 MB peak
+[2024.02.22-16.01.11:746][  0]LogMemory: Process Virtual Memory: 120.80 MB used, 120.80 MB peak
+[2024.02.22-16.01.11:746][  0]LogMemory: Physical Memory: 8672.63 MB used,  15734.42 MB free, 24407.05 MB total
+[2024.02.22-16.01.11:746][  0]LogMemory: Virtual Memory: 134201880.00 MB used,  15843.96 MB free, 134217728.00 MB total
+[2024.02.22-16.01.11:749][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.02.22-16.01.11:786][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.02.22-16.01.11:787][  0]LogInit: Using OS detected language (en-US).
+[2024.02.22-16.01.11:787][  0]LogInit: Using OS detected locale (en-US).
+[2024.02.22-16.01.11:789][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.02.22-16.01.11:992][  0]LogInit: Setting process to per monitor DPI aware
+[2024.02.22-16.01.12:000][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.02.22-16.01.12:013][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.02.22-16.01.12:013][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.02.22-16.01.12:172][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.02.22-16.01.12:172][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.02.22-16.01.12:172][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.02.22-16.01.12:172][  0]LogD3D11RHI: D3D11 adapters:
+[2024.02.22-16.01.12:276][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2024.02.22-16.01.12:276][  0]LogD3D11RHI:       3962/0/12203 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2024.02.22-16.01.12:311][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2024.02.22-16.01.12:311][  0]LogD3D11RHI:       128/0/12203 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.02.22-16.01.12:313][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.02.22-16.01.12:313][  0]LogD3D11RHI:       0/0/12203 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.02.22-16.01.12:313][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.02.22-16.01.12:317][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.02.22-16.01.12:317][  0]LogD3D11RHI:     GPU DeviceId: 0x1f99 (for the marketing name, search the web for "GPU Device Id")
+[2024.02.22-16.01.12:317][  0]LogWindows: EnumDisplayDevices:
+[2024.02.22-16.01.12:317][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2024.02.22-16.01.12:317][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.02.22-16.01.12:318][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.02.22-16.01.12:318][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:1)
+[2024.02.22-16.01.12:318][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2024.02.22-16.01.12:318][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2024.02.22-16.01.12:318][  0]LogD3D11RHI:   Driver Version: 516.40 (internal:31.0.15.1640, unified:516.40)
+[2024.02.22-16.01.12:318][  0]LogD3D11RHI:      Driver Date: 6-6-2022
+[2024.02.22-16.01.12:318][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2024.02.22-16.01.12:375][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.02.22-16.01.12:375][  0]LogD3D11RHI: Async texture creation enabled
+[2024.02.22-16.01.12:375][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.02.22-16.01.12:390][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.02.22-16.01.12:391][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.02.22-16.01.12:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.02.22-16.01.12:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.02.22-16.01.12:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.02.22-16.01.12:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.02.22-16.01.12:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.02.22-16.01.12:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.02.22-16.01.12:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.02.22-16.01.12:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.02.22-16.01.12:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.02.22-16.01.12:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.02.22-16.01.12:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.02.22-16.01.12:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.02.22-16.01.12:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.02.22-16.01.12:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.02.22-16.01.12:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.02.22-16.01.12:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.02.22-16.01.12:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.02.22-16.01.12:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.02.22-16.01.12:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.02.22-16.01.12:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.02.22-16.01.12:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.02.22-16.01.12:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.02.22-16.01.12:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.02.22-16.01.12:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.02.22-16.01.12:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.02.22-16.01.12:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.02.22-16.01.12:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.02.22-16.01.12:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.02.22-16.01.12:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.02.22-16.01.12:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.02.22-16.01.12:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.02.22-16.01.12:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.02.22-16.01.12:828][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.02.22-16.01.12:833][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.02.22-16.01.12:881][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.02.22-16.01.12:881][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../UnReal Projects/SinglePLayer/PinBall/Intermediate/Shaders/WorkingDirectory/16892/).
+[2024.02.22-16.01.12:881][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vinay/AppData/Local/Temp/UnrealShaderWorkingDir/6682F0E04B97A0816831DF949E837A58/'.
+[2024.02.22-16.01.12:881][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2024.02.22-16.01.13:639][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.02.22-16.01.13:713][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/vinay/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.02.22-16.01.13:713][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vinay/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2024.02.22-16.01.13:713][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UnReal Projects/SinglePLayer/PinBall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.02.22-16.01.13:713][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.02.22-16.01.13:713][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UnReal Projects/SinglePLayer/PinBall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.22-16.01.13:713][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.02.22-16.01.13:723][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.02.22-16.01.13:724][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.22-16.01.13:724][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.02.22-16.01.13:778][  0]LogDerivedDataCache: Speed tests for C:/Users/vinay/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2024.02.22-16.01.13:778][  0]LogDerivedDataCache: Display: Performance to C:/Users/vinay/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=19.16MBs, RandomWriteSpeed=188.28MBs. Assigned SpeedClass 'Local'
+[2024.02.22-16.01.13:778][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vinay/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.02.22-16.01.13:779][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.02.22-16.01.13:779][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.02.22-16.01.13:824][  0]LogSlate: Using FreeType 2.10.0
+[2024.02.22-16.01.13:825][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.02.22-16.01.13:847][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2024.02.22-16.01.14:075][  0]LogInit: Selected Device Profile: [Windows]
+[2024.02.22-16.01.14:075][  0]LogInit: Active device profile: [000001983192B800][0000019825E774C0 49] Windows
+[2024.02.22-16.01.14:075][  0]LogInit: Profiles: [000001983192B800][0000019825E774C0 49] Windows, [00000198318E0900][000001982A867600 49] WindowsNoEditor, [0000019831928900][000001982A86B740 49] WindowsServer, [00000198318E3200][000001982A86F880 49] WindowsClient, [000001983192B000][000001982A8739C0 49] IOS, [00000198318E1200][000001982A87BB40 49] iPadAir, [0000019831929100][000001982A87FCC0 49] iPadAir2, [0000019831864C00][000001982A8862C0 49] IPadPro, [0000019831864D00][000001982A882300 49] iPadAir3, [000001983192AB00][000001982A88A480 49] iPadAir4, [0000019831867D00][000001982A88E600 49] iPadMini2, [0000019831929500][000001982A892780 49] iPadMini3, [0000019831866000][000001982A896900 49] iPadMini4, [000001983192BB00][000001982A89AA80 49] iPadMini5, [00000198318E0C00][000001982A8A6D40 49] iPhone6, [00000198318E3F00][000001982A89ED80 49] iPodTouch6, [0000019831866600][000001982A8AF040 49] iPhone7, [0000019831867C00][000001982A8AB080 49] iPodTouch7, [00000198318E2200][000001982A8B3200 49] iPhone5S, [0000019831866D00][000001982A8B7380 49] iPhone6Plus, [00000198318E2900][000001982A8BB500 49] iPhone6S, [0000019831867300][000001982A877640 49] iPhone6SPlus, [00000198318E0200][000001982A8BF780 49] iPhone7Plus, [0000019831865700][000001982A8C38C0 49] iPhoneSE, [00000198318E1B00][000001982A8C7A00 49] iPhone8, [0000019831865A00][000001983236FB80 49] iPhone8Plus, [00000198318E3000][0000019832373D00 49] iPhoneX, [0000019831864700][00000198323A61C0 49] iPhoneXS, [00000198318E2700][00000198323DA340 49] iPhoneXSMax, [0000019831865D00][0000019821A484C0 49] iPhoneXR, [00000198318E0400][0000019821A4C640 49] iPhone11, [0000019831867400][0000019821A607C0 49] iPhone11Pro, [00000198318E1400][00000198323EA940 49] iPhone11ProMax, [0000019831865600][00000198323F6AC0 49] iPhoneSE2, [00000198318E3600][00000198323FAC40 49] iPhone12Mini, [0000019831866500][0000019832406DC0 49] iPhone12, [00000198318E0800][000001983240AF40 49] iPhone12Pro, [0000019831865C00][000001983240F0C0 49] iPhone12ProMax, [00000198318E1E00][0000019832413240 49] iPadPro105, [0000019831867200][00000198324173C0 49] iPadPro129, [00000198318E2F00][000001983241B540 49] iPadPro97, [0000019831865300][000001983241F6C0 49] iPadPro2_129, [00000198318E1300][000001982A8CB800 49] iPad5, [0000019831866A00][0000019832423940 49] iPad6, [00000198318E0A00][0000019832427A80 49] iPad7, [0000019831867F00][000001983249DC00 49] iPad8, [00000198318E1A00][00000198324B20C0 49] iPadPro11, [0000019831866200][00000198324B6240 49] iPadPro2_11, [00000198318E3D00][00000198324BA3C0 49] iPadPro3_129, [0000019831864400][00000198324BE540 49] iPadPro4_129, [00000198318E2600][00000198324C26C0 49] AppleTV, [0000019831867500][00000198324C6840 49] AppleTV4K, [00000198318E1700][00000198324CA9C0 49] TVOS, [0000019831867900][00000198324CEB40 49] Mac, [00000198318E0700][00000198324D2CC0 49] MacClient, [0000019831865000][00000198324D6E40 49] MacNoEditor, [00000198318E2D00][00000198324DAFC0 49] MacServer, [0000019831864300][00000198324DF140 49] Linux, [00000198318E2E00][00000198324E32C0 49] LinuxAArch64, [0000019831867B00][00000198324E7440 49] LinuxNoEditor, [00000198318E0300][00000198324EB5C0 49] LinuxAArch64NoEditor, [0000019831929B00][0000019832513740 49] LinuxClient, [00000198319B5700][0000019832499880 49] LinuxAArch64Client, [000001983192BC00][00000198325AF9C0 49] LinuxServer, [00000198319B4600][00000198325B3B00 49] LinuxAArch64Server, [000001983192A400][00000198325B7C40 49] Android, [00000198319B5900][00000198325BE100 49] Android_Low, [0000019831929900][00000198325C2280 49] Android_Mid, [00000198319B5B00][00000198325C6400 49] Android_High, [0000019831929D00][00000198325CA580 49] Android_Default, [00000198319B4500][00000198325CE700 49] Android_Adreno4xx, [0000019831929300][00000198325D2880 49] Android_Adreno5xx_Low, [00000198319B5000][00000198325D6A00 49] Android_Adreno5xx, [0000019831929200][00000198325DAB80 49] Android_Adreno6xx, [00000198319B5300][00000198325F2D00 49] Android_Adreno6xx_Vulkan, [000001983192B300][0000019832684E80 49] Android_Mali_T6xx, [00000198319B5F00][0000019832689000 49] Android_Mali_T7xx, [000001983192B600][00000198326C3180 49] Android_Mali_T8xx, [00000198319B4200][00000198326CB300 49] Android_Mali_G71, [00000198318E3500][000001983370F480 49] Android_Mali_G72, [0000019831867800][0000019833713600 49] Android_Mali_G72_Vulkan, [00000198318E2000][0000019833717780 49] Android_Mali_G76, [0000019831865200][00000198325BB8C0 49] Android_Mali_G76_Vulkan, [00000198318E3A00][000001983371BA00 49] Android_Mali_G77, [0000019831864500][000001983371FB40 49] Android_Mali_G77_Vulkan, [00000198318E1F00][0000019833723C80 49] Android_Vulkan_SM5, [0000019831866100][0000019833744140 49] Android_PowerVR_G6xxx, [00000198318E3800][00000198337482C0 49] Android_PowerVR_GT7xxx, [0000019831866400][0000019833758440 49] Android_PowerVR_GE8xxx, [00000198318E2B00][00000198337745C0 49] Android_PowerVR_GM9xxx, [0000019831864A00][0000019833778740 49] Android_PowerVR_GM9xxx_Vulkan, [00000198318E2500][000001983377C8C0 49] Android_TegraK1, [00000198319B4300][0000019833780A40 49] Android_Unknown_Vulkan, [00000198318E1100][0000019833784BC0 49] Lumin, [00000198319B4F00][0000019833788D40 49] Lumin_Desktop, [00000198318E2400][000001983378CEC0 49] HoloLens, 
+[2024.02.22-16.01.14:189][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.02.22-16.01.14:189][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.02.22-16.01.14:189][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.02.22-16.01.14:189][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.02.22-16.01.14:189][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.02.22-16.01.14:203][  0]LogNetVersion: PinBall 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3941802936)
+[2024.02.22-16.01.14:625][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.02.22-16.01.14:657][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.031138 seconds
+[2024.02.22-16.01.14:662][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2024.02.22-16.01.14:662][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2024.02.22-16.01.14:662][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.02.22-16.01.14:987][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.02.22-16.01.14:991][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.02.22-16.01.15:111][  0]SourceControl: Source control is disabled
+[2024.02.22-16.01.15:111][  0]SourceControl: Source control is disabled
+[2024.02.22-16.01.15:113][  0]SourceControl: Source control is disabled
+[2024.02.22-16.01.15:116][  0]SourceControl: Source control is disabled
+[2024.02.22-16.01.15:119][  0]SourceControl: Source control is disabled
+[2024.02.22-16.01.15:126][  0]LogUProjectInfo: Found projects:
+[2024.02.22-16.01.15:170][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.02.22-16.01.15:186][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.02.22-16.01.15:186][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.02.22-16.01.15:315][  0]LogCollectionManager: Loaded 0 collections in 0.000444 seconds
+[2024.02.22-16.01.15:332][  0]LogFileCache: Scanning file cache for directory 'D:/UnReal Projects/SinglePLayer/PinBall/Saved/Collections/' took 0.00s
+[2024.02.22-16.01.15:332][  0]LogFileCache: Scanning file cache for directory 'D:/UnReal Projects/SinglePLayer/PinBall/Content/Developers/vinay/Collections/' took 0.00s
+[2024.02.22-16.01.15:332][  0]LogFileCache: Scanning file cache for directory 'D:/UnReal Projects/SinglePLayer/PinBall/Content/Collections/' took 0.00s
+[2024.02.22-16.01.15:332][  0]LogOcInput: OculusInput pre-init called
+[2024.02.22-16.01.15:339][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2024.02.22-16.01.15:339][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2024.02.22-16.01.15:383][  0]LogEngine: Initializing Engine...
+[2024.02.22-16.01.15:384][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.02.22-16.01.15:384][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.02.22-16.01.15:384][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.02.22-16.01.15:478][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.02.22-16.01.15:486][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.02.22-16.01.15:494][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.02.22-16.01.15:498][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.02.22-16.01.15:498][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.02.22-16.01.15:498][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-16.01.15:498][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-16.01.15:498][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-16.01.15:498][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-16.01.15:498][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.22-16.01.15:498][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.22-16.01.15:498][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.22-16.01.15:498][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-16.01.15:498][  0]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.22-16.01.15:498][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.22-16.01.15:523][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.22-16.01.15:523][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.02.22-16.01.16:033][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.22-16.01.16:038][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-16.01.16:039][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-16.01.16:039][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-16.01.16:040][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.22-16.01.16:040][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.22-16.01.16:040][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.22-16.01.16:041][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.22-16.01.16:041][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.22-16.01.16:041][  0]LogInit: FAudioDevice initialized.
+[2024.02.22-16.01.16:041][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.02.22-16.01.16:041][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.02.22-16.01.16:081][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/vinay/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.02.22-16.01.16:082][  0]LogInit: Texture streaming: Enabled
+[2024.02.22-16.01.16:092][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2024.02.22-16.01.16:094][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.02.22-16.01.16:094][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.02.22-16.01.16:096][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.02.22-16.01.16:116][  0]LogInit: Transaction tracking system initialized
+[2024.02.22-16.01.16:138][  0]BlueprintLog: New page: Editor Load
+[2024.02.22-16.01.16:193][  0]LocalizationService: Localization service is disabled
+[2024.02.22-16.01.16:211][  0]TimingProfiler: Initialize
+[2024.02.22-16.01.16:211][  0]TimingProfiler: OnSessionChanged
+[2024.02.22-16.01.16:211][  0]LoadingProfiler: Initialize
+[2024.02.22-16.01.16:211][  0]LoadingProfiler: OnSessionChanged
+[2024.02.22-16.01.16:211][  0]NetworkingProfiler: Initialize
+[2024.02.22-16.01.16:211][  0]NetworkingProfiler: OnSessionChanged
+[2024.02.22-16.01.16:211][  0]MemoryProfiler: Initialize
+[2024.02.22-16.01.16:211][  0]MemoryProfiler: OnSessionChanged
+[2024.02.22-16.01.16:309][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.02.22-16.01.16:310][  0]LogFileCache: Scanning file cache for directory 'D:/UnReal Projects/SinglePLayer/PinBall/Content/' took 0.00s
+[2024.02.22-16.01.16:310][  0]LogCook: Display: Mobile HDR setting 1
+[2024.02.22-16.01.16:576][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.02.22-16.01.16:579][  0]SourceControl: Source control is disabled
+[2024.02.22-16.01.16:579][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.708
+[2024.02.22-16.01.16:579][  0]Cmd: MAP LOAD FILE="../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Pinball_Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.02.22-16.01.16:579][  0]LightingResults: New page: Lighting Build
+[2024.02.22-16.01.16:580][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.01.16:580][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.01.16:580][  0]MapCheck: New page: Map Check
+[2024.02.22-16.01.16:580][  0]LightingResults: New page: Lighting Build
+[2024.02.22-16.01.16:585][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.22-16.01.16:736][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2024.02.22-16.01.16:736][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2024.02.22-16.01.16:736][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X512)
+[2024.02.22-16.01.16:736][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2024.02.22-16.01.16:736][  0]LogTexture: Display: Building textures: T_PopBumperTop (BGRA8, 512X513)
+[2024.02.22-16.01.16:736][  0]LogStaticMesh: Building static mesh SM_PopBumperBase...
+[2024.02.22-16.01.16:825][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2024.02.22-16.01.16:826][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2024.02.22-16.01.16:826][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/SM_PopBumperBase.SM_PopBumperBase
+[2024.02.22-16.01.16:838][  0]LogMaterial: Display: Missing cached shader map for material M_Bumper, compiling. 
+[2024.02.22-16.01.16:871][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2024.02.22-16.01.16:873][  0]LogStaticMesh: Building static mesh SM_PopBumperMechanism...
+[2024.02.22-16.01.16:886][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/SM_PopBumperMechanism.SM_PopBumperMechanism
+[2024.02.22-16.01.16:896][  0]LogMaterial: Display: Missing cached shader map for material white, compiling. 
+[2024.02.22-16.01.16:907][  0]LogMaterial: Display: Missing cached shader map for material flipper_rubber, compiling. 
+[2024.02.22-16.01.16:917][  0]LogStaticMesh: Building static mesh Flipper...
+[2024.02.22-16.01.16:932][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Flipper.Flipper
+[2024.02.22-16.01.16:935][  0]LogStaticMesh: Building static mesh SM_Plunger...
+[2024.02.22-16.01.16:970][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/SM_Plunger.SM_Plunger
+[2024.02.22-16.01.16:975][  0]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2024.02.22-16.01.16:988][  0]LogMaterial: Display: Missing cached shader map for material M_simpleMetal, compiling. 
+[2024.02.22-16.01.17:018][  0]LogStaticMesh: Building static mesh BallSphere...
+[2024.02.22-16.01.17:026][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/BallSphere.BallSphere
+[2024.02.22-16.01.17:034][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Impact_Punch_High01...
+[2024.02.22-16.01.17:035][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Impact_Punch_High01.Impact_Punch_High01 will be modified from 40 to 40.
+[2024.02.22-16.01.17:060][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 46486 while cooking SoundWave /Game/Sounds/Impact_Punch_High01.Impact_Punch_High01.
+[2024.02.22-16.01.17:060][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Impact_Punch_High03...
+[2024.02.22-16.01.17:060][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Impact_Punch_High03.Impact_Punch_High03 will be modified from 40 to 40.
+[2024.02.22-16.01.17:072][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 38008 while cooking SoundWave /Game/Sounds/Impact_Punch_High03.Impact_Punch_High03.
+[2024.02.22-16.01.17:072][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Impact_Punch_High02...
+[2024.02.22-16.01.17:072][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Impact_Punch_High02.Impact_Punch_High02 will be modified from 40 to 40.
+[2024.02.22-16.01.17:083][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 42328 while cooking SoundWave /Game/Sounds/Impact_Punch_High02.Impact_Punch_High02.
+[2024.02.22-16.01.17:084][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Impact_Punch_High04...
+[2024.02.22-16.01.17:084][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Impact_Punch_High04.Impact_Punch_High04 will be modified from 40 to 40.
+[2024.02.22-16.01.17:097][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 45036 while cooking SoundWave /Game/Sounds/Impact_Punch_High04.Impact_Punch_High04.
+[2024.02.22-16.01.17:098][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Pinball_Level1'.
+[2024.02.22-16.01.17:099][  0]LogAIModule: Creating AISystem for world Pinball_Level1
+[2024.02.22-16.01.17:121][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.22-16.01.17:130][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.02.22-16.01.17:134][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.22-16.01.17:135][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2024.02.22-16.01.17:135][  0]LogFileHelpers: Loading map 'Pinball_Level1' took 0.556
+[2024.02.22-16.01.17:136][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.266
+[2024.02.22-16.01.17:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.01.17:294][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.01.17:303][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.01.17:310][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.01.17:339][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0094 seconds. Added 3601 classes and 859 folders.
+[2024.02.22-16.01.17:347][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.02.22-16.01.17:351][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.02.22-16.01.17:351][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:351][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.22-16.01.17:351][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2024.02.22-16.01.17:353][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.02.22-16.01.17:353][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:353][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.02.22-16.01.17:353][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2024.02.22-16.01.17:354][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.02.22-16.01.17:354][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:354][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.02.22-16.01.17:354][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2024.02.22-16.01.17:355][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.22-16.01.17:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.22-16.01.17:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2024.02.22-16.01.17:356][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.02.22-16.01.17:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.02.22-16.01.17:356][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2024.02.22-16.01.17:357][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.02.22-16.01.17:357][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:357][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.02.22-16.01.17:357][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2024.02.22-16.01.17:358][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.02.22-16.01.17:358][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:358][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.02.22-16.01.17:358][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2024.02.22-16.01.17:359][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.02.22-16.01.17:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.02.22-16.01.17:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2024.02.22-16.01.17:359][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.02.22-16.01.17:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.02.22-16.01.17:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2024.02.22-16.01.17:360][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.02.22-16.01.17:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.02.22-16.01.17:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2024.02.22-16.01.17:361][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.02.22-16.01.17:361][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:361][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.02.22-16.01.17:361][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2024.02.22-16.01.17:362][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.02.22-16.01.17:362][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.02.22-16.01.17:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.02.22-16.01.17:363][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.22-16.01.17:363][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:363][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.22-16.01.17:363][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.02.22-16.01.17:364][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.02.22-16.01.17:364][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:364][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.02.22-16.01.17:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2024.02.22-16.01.17:365][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.02.22-16.01.17:365][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:365][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.02.22-16.01.17:365][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2024.02.22-16.01.17:366][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.02.22-16.01.17:366][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:366][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.22-16.01.17:366][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.02.22-16.01.17:367][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.02.22-16.01.17:367][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:367][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.02.22-16.01.17:367][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2024.02.22-16.01.17:368][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.02.22-16.01.17:368][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:368][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.02.22-16.01.17:368][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2024.02.22-16.01.17:368][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.22-16.01.17:368][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:369][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.22-16.01.17:369][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2024.02.22-16.01.17:369][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.22-16.01.17:369][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:369][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.22-16.01.17:369][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2024.02.22-16.01.17:370][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.02.22-16.01.17:370][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:370][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.22-16.01.17:370][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2024.02.22-16.01.17:371][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.02.22-16.01.17:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:371][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.02.22-16.01.17:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2024.02.22-16.01.17:372][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.02.22-16.01.17:372][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:372][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.02.22-16.01.17:372][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2024.02.22-16.01.17:373][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.02.22-16.01.17:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.02.22-16.01.17:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2024.02.22-16.01.17:374][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.22-16.01.17:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.22-16.01.17:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2024.02.22-16.01.17:374][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.02.22-16.01.17:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.22-16.01.17:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.02.22-16.01.17:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2024.02.22-16.01.17:428][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.02.22-16.01.17:432][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2024.02.22-16.01.17:518][  0]LogSlate: Took 0.000459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.02.22-16.01.17:521][  0]LogSlate: Took 0.000418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.02.22-16.01.17:527][  0]LogSlate: Took 0.000405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.22-16.01.17:637][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2024.02.22-16.01.17:742][  0]LogSlate: Took 0.000586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.22-16.01.17:994][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.02.22-16.01.17:994][  0]LogLoad: (Engine Initialization) Total time: 7.12 seconds
+[2024.02.22-16.01.17:994][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.02.22-16.01.17:994][  0]LogInit: First time updating LLM stats...
+[2024.02.22-16.01.18:223][  0]LogAssetRegistry: Asset discovery search completed in 4.3765 seconds
+[2024.02.22-16.01.18:224][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.02.22-16.01.18:224][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.02.22-16.01.40:745][322]MapCheck: New page: Map Check
+[2024.02.22-16.01.40:762][322]Cmd: MAP REBUILD ALLVISIBLE
+[2024.02.22-16.01.40:763][322]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.02.22-16.01.40:768][322]LogWorld: UWorld::CleanupWorld for Pinball_Level1, bSessionEnded=true, bCleanupResources=false
+[2024.02.22-16.01.40:795][322]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.02.22-16.01.40:795][322]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2024.02.22-16.01.40:795][322]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2024.02.22-16.01.40:801][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.22-16.01.40:806][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.22-16.01.40:812][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2024.02.22-16.01.40:847][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.22-16.01.40:849][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.22-16.01.40:851][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.22-16.01.40:854][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.22-16.01.40:856][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.22-16.01.40:859][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.22-16.01.52:115][322]TextureStreamingBuild: Display: Compiling optional shaders took 11.314 seconds.
+[2024.02.22-16.01.52:157][322]LogLevel: Display: Export Material TexCoord Scales took 0.042 seconds.
+[2024.02.22-16.01.52:159][322]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2024.02.22-16.01.52:162][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.02.22-16.01.52:166][322]LightingResults: New page: Lighting Build - Feb 23, 2024, 3:01:52 AM
+[2024.02.22-16.01.52:196][322]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.02.22-16.01.52:237][322]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.02.22-16.01.52:250][322]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.02.22-16.01.52:764][322]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.02.22-16.01.52:764][322]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16892
+[2024.02.22-16.01.59:176][322]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.02.22-16.01.59:177][322]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.02.22-16.01.59:177][322]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.02.22-16.01.59:177][322]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.02.22-16.01.59:177][322]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.02.22-16.01.59:177][322]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.02.22-16.01.59:322][322]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.02.22-16.01.59:322][322]MapCheck: New page: Pinball_Level1 - Feb 23, 2024, 3:01:59 AM
+[2024.02.22-16.01.59:323][322]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.555ms to complete.
+[2024.02.22-16.01.59:324][322]LogEditorBuildUtils: Build time 0:18
+[2024.02.22-16.01.59:647][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.02.22-16.02.01:683][379]Job is a success!
+[2024.02.22-16.02.01:733][380]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.22-16.02.01:862][380]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2024.02.22-16.02.01:862][380]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.02.22-16.02.01:862][380]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2024.02.22-16.02.01:862][380]LogVolumetricLightmapImport:      Bricks at depth
+[2024.02.22-16.02.01:862][380]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2024.02.22-16.02.01:862][380]LogVolumetricLightmapImport:          1: 6.6% covering 6.2% of volume
+[2024.02.22-16.02.01:862][380]LogVolumetricLightmapImport:          2: 91.8% covering 1.4% of volume
+[2024.02.22-16.02.01:862][380]LogVolumetricLightmapImport:      Bricks in each level
+[2024.02.22-16.02.01:862][380]LogVolumetricLightmapImport:          Pinball_Level1 			 61 bricks 	 100.0% (Persistent Level)
+[2024.02.22-16.02.02:036][380]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2024.02.22-16.02.02:036][380]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2024.02.22-16.02.02:036][380]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2024.02.22-16.02.02:036][380]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2024.02.22-16.02.02:036][380]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2024.02.22-16.02.02:036][380]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X512)
+[2024.02.22-16.02.02:036][380]Lightmass on DESKTOP-U1ID5IC: 1.39 sec total, 223 ms importing, 23 ms setup, 97 ms photons, 992 ms processing, 0 ms extra exporting [28/28 mappings]. Threads: 6.94 sec total, 1.23 sec processing.
+[2024.02.22-16.02.02:079][380]LogStaticLightingSystem: Pinball_Level1_BuiltData storing lightmap data for 9 meshes in 2 LightmapResourceClusters (4.5 Meshes per cluster).
+[2024.02.22-16.02.02:086][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.22-16.02.02:151][380]LogStaticLightingSystem: Illumination: 9.89 sec (99 ms encoding lightmaps, 34 ms encoding shadowmaps)
+[2024.02.22-16.02.02:151][380]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 4 textures
+[2024.02.22-16.02.02:151][380]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.0 MB streaming, 0.2 MB non-streaming), 2 textures
+[2024.02.22-16.02.02:181][380]DumpUnbuiltLightIteractions
+[2024.02.22-16.02.02:181][380]Lights with unbuilt interactions: 0
+[2024.02.22-16.02.02:181][380]
+[2024.02.22-16.02.02:181][380]Primitives with unbuilt interactions: 0
+[2024.02.22-16.02.02:265][380]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2024.02.22-16.02.02:298][381]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.02.22-16.02.02:298][381]MapCheck: New page: Pinball_Level1 - Feb 23, 2024, 3:02:02 AM
+[2024.02.22-16.02.02:298][381]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.288ms to complete.
+[2024.02.22-16.02.26:867][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PinBall_GameMode.PinBall_GameMode
+[2024.02.22-16.02.27:006][835]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2024.02.22-16.02.27:791][835]LogSlate: Took 0.000467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.22-16.02.27:867][836]LogSlate: Took 0.000493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.22-16.02.30:401][983]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.02.30:401][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.11.18:980][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.02.22-16.11.18:985][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball_Level1" FILE="../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Pinball_Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.22-16.11.19:003][612]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Pinball_Level1_Auto13397F3AE49BBB715DF8936BC69B6F52E.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Pinball_Level1_Auto1.umap'
+[2024.02.22-16.11.19:005][612]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Pinball_Level1' took 0.046
+[2024.02.22-16.11.19:005][612]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2024.02.22-16.21.19:531][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.22-16.21.19:531][405]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Pinball_Level1' took 0.016
+[2024.02.22-16.31.19:957][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.22-16.31.19:958][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Pinball_Level1' took 0.014
+[2024.02.22-16.33.58:831][250]LogMaterial: Display: Material /Game/Assets/white_Auto2.white needed to have new flag set bUsedWithStaticLighting !
+[2024.02.22-16.33.58:833][250]LogMaterial: Display: Missing cached shader map for material white, compiling. 
+[2024.02.22-16.35.00:282][883]Cmd: TRANSACTION UNDO
+[2024.02.22-16.35.00:282][883]LogEditorTransaction: Undo Create Actors
+[2024.02.22-16.35.00:285][883]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Pinball_Level1.Pinball_Level1:PersistentLevel.ModelComponent_3' invalid (204 verts, 0 indices).
+[2024.02.22-16.35.00:285][883]LogPhysics: Warning: Attempt to build physics data for /Game/Pinball_Level1.Pinball_Level1:PersistentLevel.ModelComponent_3.BodySetup_0 when we are unable to.
+[2024.02.22-16.35.01:532][936]Cmd: TRANSACTION UNDO
+[2024.02.22-16.35.01:532][936]LogEditorTransaction: Undo Create Actors
+[2024.02.22-16.35.04:362][ 85]LogMaterial: Display: Material /Game/Assets/flipper_rubber_Auto2.flipper_rubber needed to have new flag set bUsedWithStaticLighting !
+[2024.02.22-16.35.04:363][ 85]LogMaterial: Display: Missing cached shader map for material flipper_rubber, compiling. 
+[2024.02.22-16.35.10:896][472]LogMaterial: Display: Material /Game/Assets/flipper_rubber.flipper_rubber needed to have new flag set bUsedWithStaticLighting !
+[2024.02.22-16.35.10:897][472]LogMaterial: Display: Missing cached shader map for material flipper_rubber, compiling. 
+[2024.02.22-16.35.27:352][452]LogMaterial: Display: Missing cached shader map for material Plastic_Inst_White, compiling. 
+[2024.02.22-16.35.29:586][584]LogMaterial: Display: Material /Game/Assets/Plastic_Inst_White.Plastic_Inst_White needed to have new flag set bUsedWithStaticLighting !
+[2024.02.22-16.35.29:587][584]LogMaterial: Display: Missing cached shader map for material Plastic_Inst_White, compiling. 
+[2024.02.22-16.36.10:564][ 26]LogMaterial: Display: Material /Game/Assets/M_Bumper.M_Bumper needed to have new flag set bUsedWithStaticLighting !
+[2024.02.22-16.36.10:565][ 26]LogMaterial: Display: Missing cached shader map for material M_Bumper, compiling. 
+[2024.02.22-16.37.01:462][ 38]Cmd: TRANSACTION UNDO
+[2024.02.22-16.37.01:462][ 38]LogEditorTransaction: Undo Create Actors
+[2024.02.22-16.37.01:463][ 38]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Pinball_Level1.Pinball_Level1:PersistentLevel.ModelComponent_4' invalid (204 verts, 0 indices).
+[2024.02.22-16.37.01:463][ 38]LogPhysics: Warning: Attempt to build physics data for /Game/Pinball_Level1.Pinball_Level1:PersistentLevel.ModelComponent_4.BodySetup_0 when we are unable to.
+[2024.02.22-16.37.15:632][857]LogMaterial: Display: Material /Game/Assets/white.white needed to have new flag set bUsedWithStaticLighting !
+[2024.02.22-16.37.15:633][857]LogMaterial: Display: Missing cached shader map for material white, compiling. 
+[2024.02.22-16.38.28:393][141]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.02.22-16.40.27:970][234]LogMaterial: Display: Missing cached shader map for material M_ChromeNoPhysMat, compiling. 
+[2024.02.22-16.40.28:913][287]LogMaterial: Display: Material /Game/Assets/M_ChromeNoPhysMat.M_ChromeNoPhysMat needed to have new flag set bUsedWithStaticLighting !
+[2024.02.22-16.40.28:914][287]LogMaterial: Display: Missing cached shader map for material M_ChromeNoPhysMat, compiling. 
+[2024.02.22-16.40.32:404][494]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.02.22-16.40.46:156][316]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.22-16.40.46:163][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-16.40.46:163][316]PIE: New page: PIE session: Pinball_Level1 (Feb 23, 2024, 3:40:46 AM)
+[2024.02.22-16.40.46:164][316]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.02.22-16.40.46:166][316]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.02.22-16.40.46:166][316]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball_Level1
+[2024.02.22-16.40.46:174][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007330s)
+[2024.02.22-16.40.46:175][316]LogAIModule: Creating AISystem for world Pinball_Level1
+[2024.02.22-16.40.46:176][316]LogPlayLevel: PIE: World Init took: (0.002231s)
+[2024.02.22-16.40.46:176][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball_Level1.Pinball_Level1 to /Game/UEDPIE_0_Pinball_Level1.Pinball_Level1 (0.010033s)
+[2024.02.22-16.40.46:199][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.02.22-16.40.46:208][316]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.02.22-16.40.46:208][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-16.40.46:208][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-16.40.46:208][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-16.40.46:208][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-16.40.46:208][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.22-16.40.46:208][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.22-16.40.46:208][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.22-16.40.46:208][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-16.40.46:209][316]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.22-16.40.46:209][316]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.22-16.40.46:211][316]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.22-16.40.46:211][316]LogAudioMixer: Display: 1: FrontRight
+[2024.02.22-16.40.46:226][316]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.22-16.40.46:226][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-16.40.46:226][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-16.40.46:226][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-16.40.46:226][316]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.22-16.40.46:226][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.22-16.40.46:226][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.22-16.40.46:239][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.22-16.40.46:239][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.22-16.40.46:240][316]LogInit: FAudioDevice initialized.
+[2024.02.22-16.40.46:240][316]LogAudio: Display: Audio Device (ID: 2) registered with world 'Pinball_Level1'.
+[2024.02.22-16.40.46:249][316]LogLoad: Game class is 'PinBall_GameMode_C'
+[2024.02.22-16.40.46:254][316]LogWorld: Bringing World /Game/UEDPIE_0_Pinball_Level1.Pinball_Level1 up for play (max tick rate 60) at 2024.02.22-22.10.46
+[2024.02.22-16.40.46:255][316]LogWorld: Bringing up level for play took: 0.001403
+[2024.02.22-16.40.46:255][316]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2024.02.22-16.40.46:264][316]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.02.22-16.40.46:268][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.40.46:272][316]PIE: Server logged in
+[2024.02.22-16.40.46:274][316]PIE: Play in editor total start time 0.113 seconds.
+[2024.02.22-16.40.52:809][683]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds/BumperHit.BumperHit was zero and has changed. Consider manually Re-saving the asset
+[2024.02.22-16.40.58:493][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.40.58:493][ 18]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pinball_Level1
+[2024.02.22-16.40.58:493][ 18]LogWorld: UWorld::CleanupWorld for Pinball_Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.40.58:493][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.40.58:501][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-16.40.58:511][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.40.58:524][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.40.58:525][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.22-16.40.58:526][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.22-16.40.58:587][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2024.02.22-16.40.58:616][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.02.22-16.41.05:915][419]LogMaterial: Display: Material /Game/Assets/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel needed to have new flag set bUsedWithStaticLighting !
+[2024.02.22-16.41.05:916][419]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2024.02.22-16.41.27:021][679]LogRenderer: Reallocating scene render targets to support 1448x728 Format 10 NumSamples 1 (Frame:28720).
+[2024.02.22-16.41.27:103][680]LogRenderer: Reallocating scene render targets to support 1880x1016 Format 10 NumSamples 1 (Frame:28722).
+[2024.02.22-16.41.27:188][681]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:28724).
+[2024.02.22-16.41.36:374][213]Cmd: SELECT NONE
+[2024.02.22-16.43.04:233][427]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper6)
+[2024.02.22-16.43.08:960][709]Cmd: TRANSACTION UNDO
+[2024.02.22-16.43.08:960][709]LogEditorTransaction: Undo Move Actors
+[2024.02.22-16.43.13:458][963]Cmd: TRANSACTION UNDO
+[2024.02.22-16.43.13:458][963]LogEditorTransaction: Undo Move Actors
+[2024.02.22-16.43.56:255][490]Cmd: SELECT NONE
+[2024.02.22-16.43.57:655][574]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.02.22-16.43.58:052][597]Cmd: SELECT NONE
+[2024.02.22-16.44.02:478][846]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.22-16.44.02:483][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-16.44.02:483][846]PIE: New page: PIE session: Pinball_Level1 (Feb 23, 2024, 3:44:02 AM)
+[2024.02.22-16.44.02:508][846]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball_Level1
+[2024.02.22-16.44.02:514][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006107s)
+[2024.02.22-16.44.02:515][846]LogAIModule: Creating AISystem for world Pinball_Level1
+[2024.02.22-16.44.02:516][846]LogPlayLevel: PIE: World Init took: (0.001737s)
+[2024.02.22-16.44.02:516][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball_Level1.Pinball_Level1 to /Game/UEDPIE_0_Pinball_Level1.Pinball_Level1 (0.008033s)
+[2024.02.22-16.44.02:574][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2024.02.22-16.44.02:578][846]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.22-16.44.02:578][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-16.44.02:578][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-16.44.02:578][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-16.44.02:578][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-16.44.02:578][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.22-16.44.02:578][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.22-16.44.02:578][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.22-16.44.02:578][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-16.44.02:579][846]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.22-16.44.02:579][846]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.22-16.44.02:581][846]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.22-16.44.02:581][846]LogAudioMixer: Display: 1: FrontRight
+[2024.02.22-16.44.02:597][846]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.22-16.44.02:597][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-16.44.02:597][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-16.44.02:598][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-16.44.02:598][846]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.22-16.44.02:598][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.22-16.44.02:598][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.22-16.44.02:612][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.22-16.44.02:612][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.22-16.44.02:612][846]LogInit: FAudioDevice initialized.
+[2024.02.22-16.44.02:612][846]LogAudio: Display: Audio Device (ID: 3) registered with world 'Pinball_Level1'.
+[2024.02.22-16.44.02:622][846]LogLoad: Game class is 'PinBall_GameMode_C'
+[2024.02.22-16.44.02:624][846]LogWorld: Bringing World /Game/UEDPIE_0_Pinball_Level1.Pinball_Level1 up for play (max tick rate 60) at 2024.02.22-22.14.02
+[2024.02.22-16.44.02:624][846]LogWorld: Bringing up level for play took: 0.001147
+[2024.02.22-16.44.02:624][846]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2024.02.22-16.44.02:626][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.44.02:626][846]PIE: Server logged in
+[2024.02.22-16.44.02:627][846]PIE: Play in editor total start time 0.144 seconds.
+[2024.02.22-16.44.11:869][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.44.11:869][395]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pinball_Level1
+[2024.02.22-16.44.11:869][395]LogWorld: UWorld::CleanupWorld for Pinball_Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.44.11:869][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.44.11:877][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-16.44.11:880][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.44.11:892][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-16.44.11:892][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.22-16.44.11:893][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.22-16.44.11:908][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.44.11:910][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.02.22-16.44.11:941][397]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.02.22-16.44.16:614][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-16.44.16:614][677]PIE: New page: PIE session: Pinball_Level1 (Feb 23, 2024, 3:44:16 AM)
+[2024.02.22-16.44.16:614][677]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball_Level1
+[2024.02.22-16.44.16:620][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006127s)
+[2024.02.22-16.44.16:621][677]LogAIModule: Creating AISystem for world Pinball_Level1
+[2024.02.22-16.44.16:621][677]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2024.02.22-16.44.16:621][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball_Level1.Pinball_Level1 to /Game/UEDPIE_0_Pinball_Level1.Pinball_Level1 (0.007169s)
+[2024.02.22-16.44.16:637][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.02.22-16.44.16:638][677]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.22-16.44.16:638][677]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-16.44.16:638][677]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-16.44.16:638][677]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-16.44.16:638][677]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-16.44.16:638][677]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.22-16.44.16:638][677]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.22-16.44.16:638][677]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.22-16.44.16:638][677]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-16.44.16:638][677]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.22-16.44.16:638][677]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.22-16.44.16:641][677]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.22-16.44.16:641][677]LogAudioMixer: Display: 1: FrontRight
+[2024.02.22-16.44.16:655][677]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.22-16.44.16:656][677]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-16.44.16:656][677]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-16.44.16:656][677]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-16.44.16:656][677]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.22-16.44.16:656][677]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.22-16.44.16:656][677]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.22-16.44.16:670][677]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.22-16.44.16:670][677]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.22-16.44.16:670][677]LogInit: FAudioDevice initialized.
+[2024.02.22-16.44.16:670][677]LogAudio: Display: Audio Device (ID: 4) registered with world 'Pinball_Level1'.
+[2024.02.22-16.44.16:703][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.44.16:703][677]LogLoad: Game class is 'PinBall_GameMode_C'
+[2024.02.22-16.44.16:705][677]LogWorld: Bringing World /Game/UEDPIE_0_Pinball_Level1.Pinball_Level1 up for play (max tick rate 60) at 2024.02.22-22.14.16
+[2024.02.22-16.44.16:706][677]LogWorld: Bringing up level for play took: 0.001737
+[2024.02.22-16.44.16:706][677]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2024.02.22-16.44.16:709][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.44.16:711][677]PIE: Server logged in
+[2024.02.22-16.44.16:713][677]PIE: Play in editor total start time 0.1 seconds.
+[2024.02.22-16.44.37:129][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.44.37:129][805]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pinball_Level1
+[2024.02.22-16.44.37:129][805]LogSlate: Window 'PinBall Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.22-16.44.37:134][805]LogWorld: UWorld::CleanupWorld for Pinball_Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.44.37:134][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.44.37:140][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-16.44.37:146][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.44.37:170][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.22-16.44.37:172][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.22-16.44.37:198][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.02.22-16.44.37:219][806]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.02.22-16.45.02:621][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.02.22-16.45.02:622][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball_Level1" FILE="../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Pinball_Level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.22-16.45.02:640][  8]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Pinball_Level1_Auto2C13B923947D53066CF0D1B99569FB72D.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Pinball_Level1_Auto2.umap'
+[2024.02.22-16.45.02:641][  8]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Pinball_Level1' took 0.035
+[2024.02.22-16.45.02:641][  8]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2024.02.22-16.45.02:641][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_Metal_Burnished_Steel] ([1] browsable assets)...
+[2024.02.22-16.45.02:678][  8]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel]
+[2024.02.22-16.45.02:678][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_Metal_Burnished_Steel]
+[2024.02.22-16.45.02:684][  8]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/M_Metal_Burnished_Steel_Auto2095B7B314A549632D062E7903900E3CF.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Assets/M_Metal_Burnished_Steel_Auto2.uasset'
+[2024.02.22-16.45.02:685][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/flipper_rubber] ([1] browsable assets)...
+[2024.02.22-16.45.02:717][  8]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/flipper_rubber.flipper_rubber]
+[2024.02.22-16.45.02:717][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/flipper_rubber]
+[2024.02.22-16.45.02:717][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/flipper_rubber" FILE="../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Assets/flipper_rubber_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-16.45.02:727][  8]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/flipper_rubber_Auto212CD7E7442F4EC54F84C4CB87F370E9E.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Assets/flipper_rubber_Auto2.uasset'
+[2024.02.22-16.45.02:728][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/white] ([1] browsable assets)...
+[2024.02.22-16.45.02:758][  8]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/white.white]
+[2024.02.22-16.45.02:758][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/white]
+[2024.02.22-16.45.02:758][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/white" FILE="../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Assets/white_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-16.45.02:763][  8]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/white_Auto2873B9457467D02BA6440F08F387F5832.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Assets/white_Auto2.uasset'
+[2024.02.22-16.45.02:764][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_Bumper] ([1] browsable assets)...
+[2024.02.22-16.45.02:791][  8]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_Bumper.M_Bumper]
+[2024.02.22-16.45.02:791][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_Bumper]
+[2024.02.22-16.45.02:791][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_Bumper" FILE="../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Assets/M_Bumper_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-16.45.02:796][  8]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/M_Bumper_Auto2D4B13D864C2BB7A221EA83A87A537794.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Assets/M_Bumper_Auto2.uasset'
+[2024.02.22-16.45.02:797][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/white_Auto2] ([1] browsable assets)...
+[2024.02.22-16.45.02:823][  8]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/white_Auto2.white]
+[2024.02.22-16.45.02:823][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/white_Auto2]
+[2024.02.22-16.45.02:823][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/white_Auto2" FILE="../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Assets/white_Auto2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-16.45.02:828][  8]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/white_Auto2_Auto2057101D5475953AB0EEC75A2301EB91B.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Assets/white_Auto2_Auto2.uasset'
+[2024.02.22-16.45.02:829][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/flipper_rubber_Auto2] ([1] browsable assets)...
+[2024.02.22-16.45.02:854][  8]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/flipper_rubber_Auto2.flipper_rubber]
+[2024.02.22-16.45.02:855][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/flipper_rubber_Auto2]
+[2024.02.22-16.45.02:860][  8]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/flipper_rubber_Auto2_Auto2EA37FC4D479B032A6C22CCA537716D71.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Assets/flipper_rubber_Auto2_Auto2.uasset'
+[2024.02.22-16.45.02:860][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Plastic_Inst_White] ([1] browsable assets)...
+[2024.02.22-16.45.02:888][  8]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Plastic_Inst_White.Plastic_Inst_White]
+[2024.02.22-16.45.02:888][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Plastic_Inst_White]
+[2024.02.22-16.45.02:893][  8]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Plastic_Inst_White_Auto2EDBA8ED0478E41F7A69C028949173B56.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Assets/Plastic_Inst_White_Auto2.uasset'
+[2024.02.22-16.45.02:894][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_ChromeNoPhysMat] ([1] browsable assets)...
+[2024.02.22-16.45.02:919][  8]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_ChromeNoPhysMat.M_ChromeNoPhysMat]
+[2024.02.22-16.45.02:920][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_ChromeNoPhysMat]
+[2024.02.22-16.45.02:925][  8]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/M_ChromeNoPhysMat_Auto25ABBB0324815F43A7510E89C38ACF4C9.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Assets/M_ChromeNoPhysMat_Auto2.uasset'
+[2024.02.22-16.45.02:925][  8]LogFileHelpers: Auto-saving content packages took 0.284
+[2024.02.22-16.47.21:400][534]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.22-16.47.21:404][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-16.47.21:404][534]PIE: New page: PIE session: Pinball_Level1 (Feb 23, 2024, 3:47:21 AM)
+[2024.02.22-16.47.21:404][534]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball_Level1
+[2024.02.22-16.47.21:410][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005566s)
+[2024.02.22-16.47.21:411][534]LogAIModule: Creating AISystem for world Pinball_Level1
+[2024.02.22-16.47.21:411][534]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2024.02.22-16.47.21:411][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball_Level1.Pinball_Level1 to /Game/UEDPIE_0_Pinball_Level1.Pinball_Level1 (0.006626s)
+[2024.02.22-16.47.21:425][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.02.22-16.47.21:425][534]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.22-16.47.21:425][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-16.47.21:425][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-16.47.21:425][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-16.47.21:425][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-16.47.21:425][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.22-16.47.21:425][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.22-16.47.21:425][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.22-16.47.21:425][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-16.47.21:426][534]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.22-16.47.21:426][534]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.22-16.47.21:428][534]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.22-16.47.21:428][534]LogAudioMixer: Display: 1: FrontRight
+[2024.02.22-16.47.21:442][534]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.22-16.47.21:442][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-16.47.21:442][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-16.47.21:442][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-16.47.21:443][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.22-16.47.21:443][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.22-16.47.21:443][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.22-16.47.21:455][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.22-16.47.21:455][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.22-16.47.21:455][534]LogInit: FAudioDevice initialized.
+[2024.02.22-16.47.21:455][534]LogAudio: Display: Audio Device (ID: 5) registered with world 'Pinball_Level1'.
+[2024.02.22-16.47.21:506][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.47.21:506][534]LogLoad: Game class is 'PinBall_GameMode_C'
+[2024.02.22-16.47.21:509][534]LogWorld: Bringing World /Game/UEDPIE_0_Pinball_Level1.Pinball_Level1 up for play (max tick rate 60) at 2024.02.22-22.17.21
+[2024.02.22-16.47.21:509][534]LogWorld: Bringing up level for play took: 0.001756
+[2024.02.22-16.47.21:509][534]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2024.02.22-16.47.21:512][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.47.21:514][534]PIE: Server logged in
+[2024.02.22-16.47.21:515][534]PIE: Play in editor total start time 0.112 seconds.
+[2024.02.22-16.48.31:619][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.48.31:619][721]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pinball_Level1
+[2024.02.22-16.48.31:619][721]LogSlate: Window 'PinBall Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.22-16.48.31:622][721]LogWorld: UWorld::CleanupWorld for Pinball_Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.48.31:622][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.48.31:636][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-16.48.31:643][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.48.31:665][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-16.48.31:665][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.22-16.48.31:667][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.22-16.48.31:689][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.02.22-16.48.31:711][722]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.02.22-16.48.53:910][ 22]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2024.02.22-16.48.59:085][303]BlueprintLog: New page: Compile BP_Ball
+[2024.02.22-16.48.59:127][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.02.22-16.48.59:592][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2024.02.22-16.48.59:610][325]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/BP_Ball613E752D4BAD4EE82F62948BB32B110F.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Blueprints/BP_Ball.uasset'
+[2024.02.22-16.48.59:623][325]AssetCheck: New page: Asset Save: BP_Ball
+[2024.02.22-16.48.59:623][325]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2024.02.22-16.49.01:313][425]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.22-16.49.01:317][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.22-16.49.01:317][425]PIE: New page: PIE session: Pinball_Level1 (Feb 23, 2024, 3:49:01 AM)
+[2024.02.22-16.49.01:317][425]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball_Level1
+[2024.02.22-16.49.01:323][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005655s)
+[2024.02.22-16.49.01:324][425]LogAIModule: Creating AISystem for world Pinball_Level1
+[2024.02.22-16.49.01:324][425]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2024.02.22-16.49.01:324][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball_Level1.Pinball_Level1 to /Game/UEDPIE_0_Pinball_Level1.Pinball_Level1 (0.006917s)
+[2024.02.22-16.49.01:345][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.02.22-16.49.01:345][425]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.02.22-16.49.01:346][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-16.49.01:346][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-16.49.01:346][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-16.49.01:346][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-16.49.01:346][425]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.22-16.49.01:346][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.22-16.49.01:346][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.22-16.49.01:346][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-16.49.01:346][425]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.22-16.49.01:346][425]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.22-16.49.01:349][425]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.22-16.49.01:349][425]LogAudioMixer: Display: 1: FrontRight
+[2024.02.22-16.49.01:363][425]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.22-16.49.01:364][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-16.49.01:364][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-16.49.01:364][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-16.49.01:364][425]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.22-16.49.01:364][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.22-16.49.01:364][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.22-16.49.01:379][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.22-16.49.01:379][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.22-16.49.01:379][425]LogInit: FAudioDevice initialized.
+[2024.02.22-16.49.01:379][425]LogAudio: Display: Audio Device (ID: 6) registered with world 'Pinball_Level1'.
+[2024.02.22-16.49.01:428][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.49.01:429][425]LogLoad: Game class is 'PinBall_GameMode_C'
+[2024.02.22-16.49.01:431][425]LogWorld: Bringing World /Game/UEDPIE_0_Pinball_Level1.Pinball_Level1 up for play (max tick rate 60) at 2024.02.22-22.19.01
+[2024.02.22-16.49.01:431][425]LogWorld: Bringing up level for play took: 0.001631
+[2024.02.22-16.49.01:431][425]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2024.02.22-16.49.01:434][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.49.01:436][425]PIE: Server logged in
+[2024.02.22-16.49.01:437][425]PIE: Play in editor total start time 0.121 seconds.
+[2024.02.22-16.49.48:293][227]LogSlate: Window 'PinBall Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.22-16.49.48:298][227]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pinball_Level1
+[2024.02.22-16.49.48:338][227]LogWorld: UWorld::CleanupWorld for Pinball_Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.49.48:339][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.49.48:347][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-16.49.48:351][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.49.48:371][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.22-16.49.48:371][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.22-16.49.48:372][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.22-16.49.48:396][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2024.02.22-16.49.48:416][228]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.02.22-16.50.05:072][193]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BallResetZone.BP_BallResetZone
+[2024.02.22-16.50.15:692][796]LogSlate: Window 'BP_BallResetZone' being destroyed
+[2024.02.22-16.50.15:700][796]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.50.15:700][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.50.23:867][276]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PinBall_GameMode.PinBall_GameMode
+[2024.02.22-16.50.32:316][754]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pinball_PlayerController_Auto2.Pinball_PlayerController
+[2024.02.22-16.51.38:758][673]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/HighScoreWidget.HighScoreWidget
+[2024.02.22-16.52.03:119][  3]BlueprintLog: New page: Compile HighScoreWidget
+[2024.02.22-16.52.03:195][  3]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2024.02.22-16.52.21:353][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighScoreWidget" FILE="../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Blueprints/HighScoreWidget.uasset" SILENT=true
+[2024.02.22-16.52.21:364][ 62]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/HighScoreWidgetA45933C24CB72B580AAA3EB1EE2B83B0.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Content/Blueprints/HighScoreWidget.uasset'
+[2024.02.22-16.52.21:378][ 62]AssetCheck: New page: Asset Save: HighScoreWidget
+[2024.02.22-16.52.21:378][ 62]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HighScoreWidget.HighScoreWidget
+[2024.02.22-16.52.22:203][106]LogSlate: Window 'HighScoreWidget' being destroyed
+[2024.02.22-16.52.22:211][106]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.52.22:211][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.52.22:219][106]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.52.22:220][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.52.23:456][173]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.22-16.52.23:460][173]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.22-16.52.23:462][173]LogPlayLevel: [PlayLevel] Compiling HighScoreWidget before play...
+[2024.02.22-16.52.23:532][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2024.02.22-16.52.23:533][173]LogPlayLevel: PlayLevel: Blueprint regeneration took 72 ms (1 blueprints)
+[2024.02.22-16.52.23:534][173]PIE: New page: PIE session: Pinball_Level1 (Feb 23, 2024, 3:52:23 AM)
+[2024.02.22-16.52.23:534][173]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball_Level1
+[2024.02.22-16.52.23:540][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006668s)
+[2024.02.22-16.52.23:541][173]LogAIModule: Creating AISystem for world Pinball_Level1
+[2024.02.22-16.52.23:542][173]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2024.02.22-16.52.23:542][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball_Level1.Pinball_Level1 to /Game/UEDPIE_0_Pinball_Level1.Pinball_Level1 (0.007949s)
+[2024.02.22-16.52.23:573][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2024.02.22-16.52.23:574][173]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.22-16.52.23:574][173]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.22-16.52.23:574][173]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.22-16.52.23:574][173]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.22-16.52.23:574][173]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.22-16.52.23:574][173]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.22-16.52.23:574][173]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.22-16.52.23:574][173]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.22-16.52.23:574][173]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.22-16.52.23:574][173]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.22-16.52.23:574][173]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.22-16.52.23:576][173]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.22-16.52.23:576][173]LogAudioMixer: Display: 1: FrontRight
+[2024.02.22-16.52.23:591][173]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.22-16.52.23:591][173]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.22-16.52.23:591][173]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.22-16.52.23:591][173]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.22-16.52.23:592][173]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.22-16.52.23:592][173]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.22-16.52.23:592][173]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.22-16.52.23:606][173]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.22-16.52.23:606][173]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.22-16.52.23:606][173]LogInit: FAudioDevice initialized.
+[2024.02.22-16.52.23:606][173]LogAudio: Display: Audio Device (ID: 7) registered with world 'Pinball_Level1'.
+[2024.02.22-16.52.23:655][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.52.23:655][173]LogLoad: Game class is 'PinBall_GameMode_C'
+[2024.02.22-16.52.23:657][173]LogWorld: Bringing World /Game/UEDPIE_0_Pinball_Level1.Pinball_Level1 up for play (max tick rate 60) at 2024.02.22-22.22.23
+[2024.02.22-16.52.23:657][173]LogWorld: Bringing up level for play took: 0.001913
+[2024.02.22-16.52.23:658][173]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2024.02.22-16.52.23:661][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.52.23:663][173]PIE: Server logged in
+[2024.02.22-16.52.23:664][173]PIE: Play in editor total start time 0.204 seconds.
+[2024.02.22-16.52.48:989][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.22-16.52.48:989][682]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pinball_Level1
+[2024.02.22-16.52.48:989][682]LogSlate: Window 'PinBall Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.22-16.52.48:993][682]LogWorld: UWorld::CleanupWorld for Pinball_Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-16.52.48:993][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.52.49:007][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.22-16.52.49:013][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-16.52.49:053][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.22-16.52.49:055][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.22-16.52.49:078][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.02.22-16.52.49:096][683]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.02.22-16.57.26:069][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.02.22-16.57.26:070][726]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Pinball_Level1' took 0.030
+[2024.02.22-16.57.26:070][726]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Ball] ([1] browsable assets)...
+[2024.02.22-16.57.26:070][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ball]
+[2024.02.22-16.57.26:070][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Blueprints/BP_Ball_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-16.57.26:080][726]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/BP_Ball_Auto33BD9B1F941DA3AD3A94BE2965B239ACC.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Blueprints/BP_Ball_Auto3.uasset'
+[2024.02.22-16.57.26:081][726]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pinball_PlayerController_Auto2] ([1] browsable assets)...
+[2024.02.22-16.57.26:081][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pinball_PlayerController_Auto2]
+[2024.02.22-16.57.26:096][726]LogSavePackage: Moving '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Pinball_PlayerController_Auto2_A6A7ADA5E4C3C3F489C4CC3828ED715F1.tmp' to '../../../../../UnReal Projects/SinglePLayer/PinBall/Saved/Autosaves/Game/Blueprints/Pinball_PlayerController_Auto2_Auto3.uasset'
+[2024.02.22-16.57.26:097][726]LogFileHelpers: Auto-saving content packages took 0.027
